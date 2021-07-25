@@ -21,7 +21,11 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][cssplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/8d1452c2b69fb2a42cf6f3889ff9659a7d35e42cbb45935f5790e81371039fb1/68747470733a2f2f69636f6e2d6c6962726172792e636f6d2f696d616765732f6a6176612d69636f6e2d706e672f6a6176612d69636f6e2d706e672d31352e6a7067" />]
+[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/abcc0b314ae119ad65d5d88d728a14e4d582399a50e8f5d9b2d7ea89d1cf7e46/68747470733a2f2f69636f6e6170652e636f6d2f77702d636f6e74656e742f66696c65732f73682f35313430342f7376672f632d2d342e737667" />]
 
 <br />
 <br />
