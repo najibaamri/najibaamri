@@ -46,14 +46,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
+- [Udemy | .NET Core Web API, Vue JS & Microsoft SQL Full-Stack Web App](https://www.udemy.com/certificate/UC-5764fe68-f75d-455f-bd28-b85c15b8b079/)
+- [Maharat min Google | Fundamentals of Digital Marketing](https://www.udemy.com/certificate/UC-5764fe68-f75d-455f-bd28-b85c15b8b079/)
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more Certificates...](https://najibaamri.com)
 
 ---
 
@@ -73,7 +69,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=najibaamri)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=najibaamri&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
