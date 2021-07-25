@@ -1,12 +1,10 @@
 ### Hi there, I'm Najiba Amri - From Tunisia 👋
 
-## I'm a Web Development Student. I'm passionate about learning and sharing my knowledge with others and I'm open to any opportunities.
+## I'm a Web Development Student. I'm passionate about learning and sharing my knowledge with others and I'm open to new opportunities.
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently improving my skills
-- 👯 I’m looking to learn
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👩‍💻 I’m looking to learn more about web development 💻
+- ⚡ Hobbies: I love drawing 🎨 and travelling ✈️
 
 ### Spotify Playing 🎧
 
