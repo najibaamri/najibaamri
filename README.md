@@ -1,5 +1,7 @@
-### Hi there, I'm Najiba Amri - From Tunisia 👋
+### Hi there, I'm Najiba Amri - From Tunisia <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=IT+Engineering+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=false&width=500&height=50"></a>
+ 
 ## I'm a Web Development Student. I'm passionate about learning and sharing my knowledge with others and I'm open to new opportunities.
 
 - 🌱 I’m currently improving my skills
@@ -24,6 +26,9 @@
 [<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+[<img alt="Python" title="Python" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][webdevplaylist]
+[<img alt="C++" title="C++" height="28px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />][webdevplaylist]
+[<img alt="C#" title="C#" height="28px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />][webdevplaylist]
 
 <br />
 <br />
@@ -51,9 +56,16 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: 📊 GitHub Stats</summary>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=najibaamri&show_icons=true&theme=nightowl&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+<details>
+  <summary>:zap: 💻 Most used languages</summary>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="najibaamri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najibaamri&theme=nightowl&langs_count=10&layout=compact#" /></a>
 
 </details>
 
