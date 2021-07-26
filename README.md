@@ -26,14 +26,13 @@
 [<img align="left" alt="Git" width="35px" src="https://camo.githubusercontent.com/ce9c7a173f38722e129d5ae832a11c928ff72683fae74cbcb9fff41fd9957e63/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33662f4769745f69636f6e2e7376672f3130323470782d4769745f69636f6e2e7376672e706e67" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-[<img alt="Python" title="Python" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][webdevplaylist]
-[<img alt="C++" title="C++" height="35px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />][webdevplaylist]
-[<img alt="C#" title="C#" height="35px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />][webdevplaylist]
-[<img height="35px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">][webdevplaylist]
-[<img height="35px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">][webdevplaylist]
-[<img height="35px" width="35px" src="https://camo.githubusercontent.com/2be6c13639334e6be86614b7914afe1c34e76d49f361d515bac94bd7e21e2b49/68747470733a2f2f696d616765732e766578656c732e636f6d2f6d656469612f75736572732f332f3136363430312f69736f6c617465642f707265766965772f62383261613761633366373336646437383537306464336661336661396532342d6a6176612d70726f6772616d6d696e672d6c616e67756167652d69636f6e2d62792d766578656c732e706e67">][webdevplaylist]
+[<img alt="Python" align="left" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][webdevplaylist]
+[<img alt="C++" align="left" height="35px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />][webdevplaylist]
+[<img alt="C#" align="left" height="35px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />][webdevplaylist]
+[<img height="35px" align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">][webdevplaylist]
+[<img height="35px" align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">][webdevplaylist]
+[<img height="35px" align="left" width="35px" src="https://camo.githubusercontent.com/2be6c13639334e6be86614b7914afe1c34e76d49f361d515bac94bd7e21e2b49/68747470733a2f2f696d616765732e766578656c732e636f6d2f6d656469612f75736572732f332f3136363430312f69736f6c617465642f707265766965772f62383261613761633366373336646437383537306464336661336661396532342d6a6176612d70726f6772616d6d696e672d6c616e67756167652d69636f6e2d62792d766578656c732e706e67">][webdevplaylist]
 [<img height="35px" width="35px" src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/php.svg">][webdevplaylist]
-
 <br />
 <br />
 
