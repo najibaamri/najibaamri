@@ -2,7 +2,8 @@
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=IT+Engineering+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=false&width=500&height=50"></a>
  
-## I'm a Web Development Student. I'm passionate about learning and sharing my knowledge with others and I'm open to new opportunities.
+## I'm a Web Development Student. I'm passionate about learning and sharing my knowledge with others and I'm open to new opportunities.<br/> 
+### Want to know more about me? Check out my <a href="https://najibaamri.github.io" target="_blank">Portfolio.</a>
 
 - 🌱 I’m currently improving my skills
 - 👩‍💻 I’m looking to learn more about web development 💻
@@ -25,7 +26,7 @@
 [<img align="left" alt="MongoDB" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="35px" src="https://camo.githubusercontent.com/ce9c7a173f38722e129d5ae832a11c928ff72683fae74cbcb9fff41fd9957e63/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33662f4769745f69636f6e2e7376672f3130323470782d4769745f69636f6e2e7376672e706e67" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+[<img  alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 [<img alt="Python" align="left" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][webdevplaylist]
 [<img alt="C++" align="left" height="35px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />][webdevplaylist]
 [<img alt="C#" align="left" height="35px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />][webdevplaylist]
