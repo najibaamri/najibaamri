@@ -2,7 +2,7 @@
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=IT+Engineering+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=false&width=500&height=50"></a>
  
-## I'm a Web Development Student. I'm passionate about learning and sharing my knowledge with others and I'm open to new opportunities.<br/> 
+## I'm a Full-Stack Web Developer. I'm passionate about learning and sharing my knowledge with others and I'm open to new opportunities.<br/> 
 ### Want to know more about me? Check out my <a href="https://najibaamri.github.io" target="_blank">Portfolio.</a>
 
 - 🌱 I’m currently improving my skills
